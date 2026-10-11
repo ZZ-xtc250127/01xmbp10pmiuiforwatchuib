@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "979810407512",
+    "restype": "watchface",
+    "name": "MIUI For Watch风格图标包",
+    "description": "小米手环MIUI For Watch风格图标包\n·介绍：图标来源于小米Watch初代OTA固件包，原汁原味还原小米Watch初代的MIUI风格，一些没有图标同风格绘制了，例如血氧，跑步课程，训练状态等；完全免费，后续更新；搭配小米兰亭Pro字体包食用更佳（在附带链接下载）；\n·兼容性：仅支持小米手环10Pro（p67cn/tc）3.101.043版本，请不要再评论区频繁问能不能做环11/9Pro版本，作者目前手上仅有小米手环10Pro，9Pro和11兼容性未知所以不做了，需要搭配Chaos美化管理器使用，请在Astrobox下载Chaos最新版本后再加载此图标包（旧版本会出现控制中心和设置图标无法修改的问题），请确认以上兼容性后再进行设备操作，该操作本身具有风险，因为兼容性而导致设备变砖的问题作者概不负责；\n·使用方法：通过Astrobox将该表盘安装到设备，并且确定Chaos已经挂载，点击“投递图标”按钮，等待完成后打开Chaos-系统美化-桌面图标-MIUIForWatch（建议等待页面流畅后再返回桌面查看）\n·交流讨论：目前因为下载量未知所以仅在评论区作为bug反馈，大家可以反馈使用过程中的bug或者有什么更好的代替图标也可以反馈，或者私聊我QQ：3667287761\n感谢大家的浏览与下载，祝大家体验愉快",
+    "preview": [
+      "media/预览图1.png",
+      "media/预览图2.png",
+      "media/预览图3.png",
+      "media/预览图4.png",
+      "media/预览图5.png",
+      "media/预览图6.png",
+      "media/预览图7.png"
+    ],
+    "icon": "media/DED590A71F02FFE4285D88F05032C348.png",
+    "cover": "media/4BB76C6A55950B4BF4150DDA3B3EE1B7.png",
+    "author": [
+      {
+        "name": "zz_xmsh3",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "小米兰亭Pro配套字体包下载",
+      "url": "https://4kw9ak0ybj1tn.doubaoapps.com/app/app_17fuhwy24yp?push_animated=1&webview_progress_bar=1&show_loading=0&theme=light",
+      "icon": "download-simple"
+    },
+    {
+      "title": "B站介绍",
+      "url": "https://b23.tv/yFtjVJx",
+      "icon": "bookmarks-simple"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/MIUIForWatch风格图标包释放器1.1.2.bin",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "首版发表，欢迎下载"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
